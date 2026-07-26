@@ -1,44 +1,106 @@
-# 👋 Hi, I'm Nanmozhi
-
-### 🚀 Aspiring Data Scientist | AI Engineer | AI & Data Science (AI&DS) Student
+# 👋 Hi Everyone, I'm NANMOZHI TAMILARASAN
+🚀 AI & Data Science Student | Machine Learning & Deep Learning Enthusiast | Aspiring Data Scientist
 
 ---
 
 ## 👩‍💻 About Me
-
-- 🎓 Studying in the **AI & Data Science (AI&DS)** department
-- 🤖 Passionate about **Machine Learning, Data Science & Artificial Intelligence**
-- 🌱 Currently sharpening my skills in **Python, ML algorithms, and Data Analysis**
-- 🎯 Goal: To become a **Data Scientist & AI Engineer**, building intelligent, data-driven solutions
-- 💡 I love turning raw data into meaningful insights and real-world AI applications
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/nanmozhi-tamilarasan-b04768371)
+🚀 Performance-driven B.Tech AI & Data Science student
+🤖 Keen interest in Machine Learning, Deep Learning, Artificial Intelligence & IoT
+🌱 Currently exploring Generative AI, LLMs and NLP
+🎯 Focused on becoming a **Data Scientist & AI Engineer**
+📍 Karur, Tamil Nadu, India
 
 ---
 
-## 💼 Education
+## 💼 Experience
 
-🎓 **AI & Data Science (AI&DS) Department**
-B.Tech — Artificial Intelligence & Data Science
+### 📊 Data Analytics Intern
+**Appin Technology, Coimbatore** | Jun 2026 – Jul 2026
+
+- 📈 Gained hands-on practical training in Data Analytics
+- 🛠️ Worked on real-world data analysis workflows during the internship
+- ✅ Completed the internship training with an excellent performance rating
 
 ---
 
-## 🚀 Projects
+## 🎓 Education
 
-### 📊 Customer Churn Prediction
-Built a machine learning model to predict customer churn — analyzing key factors like tenure, usage patterns, and billing to identify customers at risk of leaving, enabling proactive retention strategies.
+**B.Tech in Artificial Intelligence and Data Science**
+VSB Engineering College | 2024 – 2028 | Current CGPA: 8.5/10
 
-### 🥗 Nutrizen AI
-An AI-powered application focused on nutrition/health insights, applying AI techniques to deliver personalized recommendations.
+**Class XII** — Muvender Matric Higher Secondary School | Score: 85.6%
+**Class X** — Thangam Matric Higher Secondary School | Score: 88%
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 Nutrizen AI — Smart Health & Nutrition Assistant
+`Python` `Machine Learning` `API Integration`
+Engineered an AI-driven personalized nutrition engine that processes user health metrics to automate tailored meal plans. Built backend database logic and API endpoints to optimize caloric calculation and food recommendations.
+
+### 📊 Customer Churn Prediction + Power BI Dashboard
+`Python` `SQL` `Scikit-learn`
+Developed an end-to-end ML model to predict subscription churn from relational data pipelines. Integrated SQL for feature mapping and evaluated performance using a Confusion Matrix, visualized in a Power BI dashboard.
+
+### 🧠 Generative AI Development & Prototyping
+`Python` `LLMs` `NLP`
+Researched and prototyped Generative AI architectures for scalable enterprise integrations. Built prompt pipelines and analyzed model tokenization and API latency.
+
+### 📦 Smart Inventory Management System
+`Java` `SQL` `Data Structures`
+Built a backend application using Java/OOP to automate real-time warehouse inventory tracking. Integrated SQL for search queries and implemented sorting algorithms for efficient inventory management.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python
+**Languages**
 
-**Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Platforms:** Jupyter Notebook, Git, GitHub, VS Code
+**Frameworks & Libraries**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📜 Certifications & Trainings
+
+- 🏆 Internship in Data Analytics — Appin Technology, Coimbatore (Jun–Jul 2026)
+- 🎤 Paper Presentation on **Generative AI** — March 2025
+- 📡 Introduction to IoT and Digital Transformation — EdCreate Foundation
+- 📊 Data Analytics in Python — NPTEL (IIT)
+- 🤖 Artificial Intelligence — Codec Technologies
+
+---
+
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+
+> 📌 Add your resume's Google Drive share link in place of the `#` above so the button opens it.
 
 ---
 
@@ -46,6 +108,7 @@ An AI-powered application focused on nutrition/health insights, applying AI tech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanmozhi-tamilarasan-b04768371)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanmozhi-25)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
@@ -54,6 +117,16 @@ An AI-powered application focused on nutrition/health insights, applying AI tech
 ![Nanmozhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanmozhi-25&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmozhi-25&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nanmozhi-25&theme=radical)
+
+---
+
+## ♟️ Beyond Code
+
+- 🏆 Competitive chess player — represented university and school at regional and state-level tournaments
+- 📈 Keeping up with the latest technology trends
+- 🎵 Music and sports enthusiast
 
 ---
 
