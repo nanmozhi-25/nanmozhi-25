@@ -8,7 +8,7 @@
 🤖 Keen interest in Machine Learning, Deep Learning, Artificial Intelligence & IoT
 🌱 Currently exploring Generative AI, LLMs and NLP
 🎯 Focused on becoming a **Data Scientist & AI Engineer**
-📍 Karur, Tamil Nadu, India
+📍 Pudukkottai, Tamil Nadu, India
 
 ---
 
@@ -98,17 +98,16 @@ Built a backend application using Java/OOP to automate real-time warehouse inven
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bYLKjTaKwbsV22zBd3TQm3bst1UJo0zZ/view?usp=sharing)
 
-> 📌 Add your resume's Google Drive share link in place of the `#` above so the button opens it.
-
+> 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanmozhi-tamilarasan-b04768371)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanmozhi-25)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanmozhitamilarasan@gmail.com)
 
 ---
 
