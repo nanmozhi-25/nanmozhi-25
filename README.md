@@ -8,11 +8,11 @@
 <td width="55%">
 
 ## 👩‍💻 About Me
-🚀 Performance-driven B.Tech AI & Data Science student
-🤖 Keen interest in Machine Learning, Deep Learning, Artificial Intelligence & IoT
-🌱 Currently exploring Generative AI, LLMs and NLP
-🎯 Focused on becoming a **Data Scientist & AI Engineer**
-📍 Pudukkottai, Tamil Nadu, India
+- 🚀 Performance-driven B.Tech AI & Data Science student
+- 🤖 Keen interest in Machine Learning, Deep Learning, Artificial Intelligence & IoT
+- 🌱 Currently exploring Generative AI, LLMs and NLP
+- 🎯 Focused on becoming a **Data Scientist & AI Engineer**
+- 📍 Pudukkottai, Tamil Nadu, India
 
 ---
 </td>
