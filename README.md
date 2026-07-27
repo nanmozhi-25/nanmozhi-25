@@ -14,16 +14,16 @@
 🎯 Focused on becoming a **Data Scientist & AI Engineer**
 📍 Pudukkottai, Tamil Nadu, India
 
+---
 </td>
 <td width="45%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%">
+<img src="https://rejolut.com/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-21-17.38.22-Create-a-wide-banner-image-representing-the-theme-_20-Artificial-Intelligence-Project-Ideas-for-Beginners_.-The-design-should-feature-a-futuristic-te-1024x585.webp" width="100%">
 
 </td>
 </tr>
 </table>
 
----
 
 ## 💼 Experience
 
