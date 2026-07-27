@@ -3,12 +3,25 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%">
+
 ## 👩‍💻 About Me
 🚀 Performance-driven B.Tech AI & Data Science student
 🤖 Keen interest in Machine Learning, Deep Learning, Artificial Intelligence & IoT
 🌱 Currently exploring Generative AI, LLMs and NLP
 🎯 Focused on becoming a **Data Scientist & AI Engineer**
-📍 Pudukkottai, Tamil Nadu, India
+📍 Karur, Tamil Nadu, India
+
+</td>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/221857992-99edaa96-fc79-4b83-92e6-e0d8f2fa8e46.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -101,6 +114,7 @@ Built a backend application using Java/OOP to automate real-time warehouse inven
 [![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bYLKjTaKwbsV22zBd3TQm3bst1UJo0zZ/view?usp=sharing)
 
 > 
+
 ---
 
 ## 🌐 Connect With Me
