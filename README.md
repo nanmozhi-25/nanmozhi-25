@@ -12,12 +12,12 @@
 🤖 Keen interest in Machine Learning, Deep Learning, Artificial Intelligence & IoT
 🌱 Currently exploring Generative AI, LLMs and NLP
 🎯 Focused on becoming a **Data Scientist & AI Engineer**
-📍 Karur, Tamil Nadu, India
+📍 Pudukkottai, Tamil Nadu, India
 
 </td>
 <td width="45%">
 
-<img src="https://user-images.githubusercontent.com/74038190/221857992-99edaa96-fc79-4b83-92e6-e0d8f2fa8e46.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%">
 
 </td>
 </tr>
@@ -60,9 +60,6 @@ Developed an end-to-end ML model to predict subscription churn from relational d
 `Python` `LLMs` `NLP`
 Researched and prototyped Generative AI architectures for scalable enterprise integrations. Built prompt pipelines and analyzed model tokenization and API latency.
 
-### 📦 Smart Inventory Management System
-`Java` `SQL` `Data Structures`
-Built a backend application using Java/OOP to automate real-time warehouse inventory tracking. Integrated SQL for search queries and implemented sorting algorithms for efficient inventory management.
 
 ---
 
@@ -73,7 +70,6 @@ Built a backend application using Java/OOP to automate real-time warehouse inven
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -114,14 +110,13 @@ Built a backend application using Java/OOP to automate real-time warehouse inven
 [![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bYLKjTaKwbsV22zBd3TQm3bst1UJo0zZ/view?usp=sharing)
 
 > 
-
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanmozhi-tamilarasan-b04768371)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanmozhi-25)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanmozhitamilarasan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanmozhitamilarasn@gmail.com)
 
 ---
 
